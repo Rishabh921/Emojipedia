@@ -254,7 +254,21 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
-  }
+  },
+  {
+    id: 38,
+    emoji: "👍",
+    name: "Thumbs Up",
+    meaning:
+      "A thumbs-up gesture is used to express assent, approval, or encouragement.",
+  },
+  {
+    id: 39,
+    emoji: "👎",
+    name: "Thumbs Down",
+    meaning:
+      "A thumbs-down gesture is used to express refuse, disapproval or discouragement.",
+  },
 ];
 
 export default emojipedia;
