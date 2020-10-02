@@ -255,6 +255,13 @@ const emojipedia = [
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
   }
+  {
+    id: 12,
+    emoji: "😍",
+    name: "Heart-Eyes",
+    meaning:
+      "This emoji enthusiastically conveys love and infatuation, as if to say “I love/am in love with” or “I'm crazy about/obsessed with” someone or something.“."
+  },
 ];
 
 export default emojipedia;
